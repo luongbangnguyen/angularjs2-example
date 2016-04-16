@@ -1,3 +1,6 @@
+typings
+app/**/*.js
+app/**/*.map
 node_modules
-src/*.js
-src/*.map
+jspm_packages
+bower_components
